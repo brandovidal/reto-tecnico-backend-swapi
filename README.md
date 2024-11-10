@@ -96,7 +96,7 @@ $ pnpm run deps
 $ pnpm run dev
 ```
 
-> ⚠️ Importante: tener declaradas las siguientes variables de entorno, revisar el archivo `.env.example`.
+> ⚠️ Importante: tener declaradas las siguientes variables de entorno en el archivo `.env`.
 
 - `PORT`: Puerto del servidor. Ejemplo: `3000`
 - `DATABASE_HOST`: Endpoint de la base de datos. Ejemplo: `localhost`
