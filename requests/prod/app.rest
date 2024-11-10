@@ -1,0 +1,1 @@
+GET {{$dotenv BASE_API_URL}}/prod/api/

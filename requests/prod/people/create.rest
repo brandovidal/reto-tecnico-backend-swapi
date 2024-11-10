@@ -1,0 +1,6 @@
+POST {{$dotenv BASE_API_URL}}/prod/api/people/create
+Content-Type: application/json
+
+{
+  "name": "Yoda"
+}
